@@ -1,0 +1,3212 @@
+[
+ {
+  "meta": {
+   "pid": "P01",
+   "order": "MV",
+   "background": "audio_eng",
+   "experience": "expert",
+   "timestamp": "2026-03-11T09:00:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 94,
+    "editCount": 61,
+    "playCount": 4,
+    "trajKeyframeCount": 5,
+    "trajSnapshot": [
+     {
+      "t": 1.3,
+      "az": -15.1,
+      "el": -1.9,
+      "dist": 0.62
+     },
+     {
+      "t": 4.9,
+      "az": -4.2,
+      "el": -2.8,
+      "dist": 0.55
+     },
+     {
+      "t": 7.6,
+      "az": 6.4,
+      "el": -2.4,
+      "dist": 0.51
+     },
+     {
+      "t": 9.8,
+      "az": 16.8,
+      "el": -1.6,
+      "dist": 0.48
+     },
+     {
+      "t": 11.6,
+      "az": 24.3,
+      "el": -1.1,
+      "dist": 0.5
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 6,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 61,
+    "editCount": 3,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.27,
+      "el": -0.01,
+      "d_rel": 0.64
+     },
+     {
+      "i": 72,
+      "az": -0.09,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.28,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 6,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 6
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 82,
+    "editCount": 64,
+    "playCount": 3,
+    "trajKeyframeCount": 6,
+    "trajSnapshot": [
+     {
+      "t": 1.2,
+      "az": 4.0,
+      "el": 2.0,
+      "dist": 0.85
+     },
+     {
+      "t": 3.6,
+      "az": 2.2,
+      "el": 0.3,
+      "dist": 0.8
+     },
+     {
+      "t": 6.0,
+      "az": 6.8,
+      "el": 3.9,
+      "dist": 0.69
+     },
+     {
+      "t": 8.1,
+      "az": 4.1,
+      "el": 1.8,
+      "dist": 0.66
+     },
+     {
+      "t": 10.4,
+      "az": 2.5,
+      "el": -1.5,
+      "dist": 0.64
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 4,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 4,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 43,
+    "editCount": 5,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 2,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 6,
+     "q_control": 6,
+     "q_speed": 7,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 4,
+    "label": "Vid2Spatial slightly faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P02",
+   "order": "MV",
+   "background": "sound_design",
+   "experience": "expert",
+   "timestamp": "2026-03-11T09:18:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 116,
+    "editCount": 88,
+    "playCount": 4,
+    "trajKeyframeCount": 6,
+    "trajSnapshot": [
+     {
+      "t": 1.1,
+      "az": -14.7,
+      "el": -1.4,
+      "dist": 0.58
+     },
+     {
+      "t": 3.8,
+      "az": -6.3,
+      "el": -1.7,
+      "dist": 0.54
+     },
+     {
+      "t": 6.2,
+      "az": 0.8,
+      "el": -1.9,
+      "dist": 0.51
+     },
+     {
+      "t": 8.9,
+      "az": 11.6,
+      "el": -1.6,
+      "dist": 0.48
+     },
+     {
+      "t": 10.7,
+      "az": 19.8,
+      "el": -1.1,
+      "dist": 0.47
+     },
+     {
+      "t": 11.8,
+      "az": 24.8,
+      "el": -0.9,
+      "dist": 0.49
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 6,
+     "q_easy": 3,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 72,
+    "editCount": 6,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.26,
+      "el": -0.02,
+      "d_rel": 0.65
+     },
+     {
+      "i": 72,
+      "az": -0.08,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.11,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.02,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 4,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 98,
+    "editCount": 76,
+    "playCount": 3,
+    "trajKeyframeCount": 7,
+    "trajSnapshot": [
+     {
+      "t": 1.0,
+      "az": 4.2,
+      "el": 2.3,
+      "dist": 0.85
+     },
+     {
+      "t": 3.2,
+      "az": 2.6,
+      "el": 0.8,
+      "dist": 0.81
+     },
+     {
+      "t": 5.4,
+      "az": 6.4,
+      "el": 2.9,
+      "dist": 0.73
+     },
+     {
+      "t": 7.0,
+      "az": 6.7,
+      "el": 4.0,
+      "dist": 0.69
+     },
+     {
+      "t": 8.8,
+      "az": 4.5,
+      "el": 1.9,
+      "dist": 0.66
+     },
+     {
+      "t": 10.2,
+      "az": 2.9,
+      "el": -0.8,
+      "dist": 0.65
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 5,
+     "q_easy": 3,
+     "q_understand": 4,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 50,
+    "editCount": 7,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 4,
+    "label": "Vid2Spatial slightly faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P03",
+   "order": "MV",
+   "background": "postprod_mix",
+   "experience": "expert",
+   "timestamp": "2026-03-11T09:36:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 88,
+    "editCount": 57,
+    "playCount": 3,
+    "trajKeyframeCount": 5,
+    "trajSnapshot": [
+     {
+      "t": 1.0,
+      "az": -16.0,
+      "el": -1.8,
+      "dist": 0.61
+     },
+     {
+      "t": 4.1,
+      "az": -5.3,
+      "el": -2.4,
+      "dist": 0.55
+     },
+     {
+      "t": 7.1,
+      "az": 4.8,
+      "el": -2.2,
+      "dist": 0.52
+     },
+     {
+      "t": 9.6,
+      "az": 16.0,
+      "el": -1.5,
+      "dist": 0.48
+     },
+     {
+      "t": 11.4,
+      "az": 23.6,
+      "el": -1.0,
+      "dist": 0.5
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 4,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 56,
+    "editCount": 3,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.28,
+      "el": -0.01,
+      "d_rel": 0.64
+     },
+     {
+      "i": 72,
+      "az": -0.08,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 6,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 6
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 78,
+    "editCount": 60,
+    "playCount": 3,
+    "trajKeyframeCount": 6,
+    "trajSnapshot": [
+     {
+      "t": 1.3,
+      "az": 4.1,
+      "el": 2.1,
+      "dist": 0.84
+     },
+     {
+      "t": 3.8,
+      "az": 2.0,
+      "el": 0.2,
+      "dist": 0.79
+     },
+     {
+      "t": 5.9,
+      "az": 6.3,
+      "el": 3.1,
+      "dist": 0.72
+     },
+     {
+      "t": 7.2,
+      "az": 6.7,
+      "el": 4.1,
+      "dist": 0.68
+     },
+     {
+      "t": 9.3,
+      "az": 4.0,
+      "el": 1.6,
+      "dist": 0.66
+     },
+     {
+      "t": 10.8,
+      "az": 2.7,
+      "el": -1.2,
+      "dist": 0.64
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 4,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 4,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 42,
+    "editCount": 4,
+    "playCount": 2,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.79
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 2,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 6,
+     "q_control": 6,
+     "q_speed": 7,
+     "q_satisfy": 6,
+     "q_match": 6
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P04",
+   "order": "MV",
+   "background": "spatial_audio",
+   "experience": "expert",
+   "timestamp": "2026-03-11T09:54:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 126,
+    "editCount": 96,
+    "playCount": 5,
+    "trajKeyframeCount": 7,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": -17.3,
+      "el": -1.5,
+      "dist": 0.58
+     },
+     {
+      "t": 3.1,
+      "az": -9.7,
+      "el": -1.8,
+      "dist": 0.55
+     },
+     {
+      "t": 5.4,
+      "az": -2.6,
+      "el": -1.9,
+      "dist": 0.52
+     },
+     {
+      "t": 7.8,
+      "az": 6.8,
+      "el": -1.8,
+      "dist": 0.49
+     },
+     {
+      "t": 9.7,
+      "az": 15.1,
+      "el": -1.4,
+      "dist": 0.47
+     },
+     {
+      "t": 10.9,
+      "az": 20.9,
+      "el": -1.0,
+      "dist": 0.47
+     },
+     {
+      "t": 11.8,
+      "az": 24.9,
+      "el": -0.8,
+      "dist": 0.49
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 3,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 2,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 83,
+    "editCount": 8,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.27,
+      "el": -0.02,
+      "d_rel": 0.64
+     },
+     {
+      "i": 72,
+      "az": -0.08,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 4,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 5,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 110,
+    "editCount": 83,
+    "playCount": 4,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": 4.4,
+      "el": 1.8,
+      "dist": 0.86
+     },
+     {
+      "t": 2.6,
+      "az": 3.1,
+      "el": 0.9,
+      "dist": 0.83
+     },
+     {
+      "t": 4.8,
+      "az": 2.0,
+      "el": -0.9,
+      "dist": 0.77
+     },
+     {
+      "t": 6.3,
+      "az": 6.1,
+      "el": 4.2,
+      "dist": 0.69
+     },
+     {
+      "t": 7.8,
+      "az": 5.4,
+      "el": 3.0,
+      "dist": 0.67
+     },
+     {
+      "t": 9.2,
+      "az": 4.0,
+      "el": 1.2,
+      "dist": 0.66
+     },
+     {
+      "t": 10.5,
+      "az": 2.7,
+      "el": -0.8,
+      "dist": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 5,
+     "q_easy": 3,
+     "q_understand": 4,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 57,
+    "editCount": 8,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 4,
+    "label": "Vid2Spatial slightly faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 3,
+    "label": "About the same"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P05",
+   "order": "MV",
+   "background": "game_audio",
+   "experience": "expert",
+   "timestamp": "2026-03-11T10:12:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 102,
+    "editCount": 74,
+    "playCount": 4,
+    "trajKeyframeCount": 6,
+    "trajSnapshot": [
+     {
+      "t": 1.2,
+      "az": -14.8,
+      "el": -2.0,
+      "dist": 0.59
+     },
+     {
+      "t": 3.9,
+      "az": -6.8,
+      "el": -2.2,
+      "dist": 0.55
+     },
+     {
+      "t": 6.5,
+      "az": 1.0,
+      "el": -2.1,
+      "dist": 0.52
+     },
+     {
+      "t": 8.9,
+      "az": 10.9,
+      "el": -1.8,
+      "dist": 0.48
+     },
+     {
+      "t": 10.6,
+      "az": 18.8,
+      "el": -1.3,
+      "dist": 0.47
+     },
+     {
+      "t": 11.7,
+      "az": 24.1,
+      "el": -1.0,
+      "dist": 0.5
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 64,
+    "editCount": 5,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.27,
+      "el": -0.01,
+      "d_rel": 0.64
+     },
+     {
+      "i": 72,
+      "az": -0.08,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 86,
+    "editCount": 69,
+    "playCount": 3,
+    "trajKeyframeCount": 7,
+    "trajSnapshot": [
+     {
+      "t": 1.1,
+      "az": 4.6,
+      "el": 2.0,
+      "dist": 0.85
+     },
+     {
+      "t": 3.4,
+      "az": 2.4,
+      "el": 0.7,
+      "dist": 0.8
+     },
+     {
+      "t": 5.5,
+      "az": 6.0,
+      "el": 2.7,
+      "dist": 0.73
+     },
+     {
+      "t": 7.0,
+      "az": 6.5,
+      "el": 4.1,
+      "dist": 0.68
+     },
+     {
+      "t": 8.8,
+      "az": 4.7,
+      "el": 2.0,
+      "dist": 0.66
+     },
+     {
+      "t": 10.3,
+      "az": 3.0,
+      "el": -0.6,
+      "dist": 0.65
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 4,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 4,
+     "q_control": 4,
+     "q_speed": 4,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 45,
+    "editCount": 5,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 2,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 6,
+     "q_control": 5,
+     "q_speed": 7,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P06",
+   "order": "MV",
+   "background": "ml_audio",
+   "experience": "expert",
+   "timestamp": "2026-03-11T10:30:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 130,
+    "editCount": 101,
+    "playCount": 5,
+    "trajKeyframeCount": 7,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": -18.1,
+      "el": -1.6,
+      "dist": 0.57
+     },
+     {
+      "t": 2.9,
+      "az": -10.4,
+      "el": -1.8,
+      "dist": 0.54
+     },
+     {
+      "t": 5.0,
+      "az": -3.0,
+      "el": -1.9,
+      "dist": 0.52
+     },
+     {
+      "t": 7.2,
+      "az": 5.1,
+      "el": -1.8,
+      "dist": 0.5
+     },
+     {
+      "t": 9.1,
+      "az": 13.7,
+      "el": -1.5,
+      "dist": 0.48
+     },
+     {
+      "t": 10.7,
+      "az": 20.8,
+      "el": -1.1,
+      "dist": 0.47
+     },
+     {
+      "t": 11.8,
+      "az": 25.3,
+      "el": -0.7,
+      "dist": 0.49
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 3,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 2,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 80,
+    "editCount": 9,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.27,
+      "el": -0.02,
+      "d_rel": 0.64
+     },
+     {
+      "i": 72,
+      "az": -0.08,
+      "el": -0.01,
+      "d_rel": 0.65
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 4,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 5,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 112,
+    "editCount": 86,
+    "playCount": 4,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": 4.3,
+      "el": 1.8,
+      "dist": 0.86
+     },
+     {
+      "t": 2.8,
+      "az": 3.1,
+      "el": 1.0,
+      "dist": 0.83
+     },
+     {
+      "t": 4.8,
+      "az": 1.8,
+      "el": -1.0,
+      "dist": 0.78
+     },
+     {
+      "t": 6.3,
+      "az": 6.1,
+      "el": 4.2,
+      "dist": 0.69
+     },
+     {
+      "t": 7.7,
+      "az": 5.3,
+      "el": 3.0,
+      "dist": 0.67
+     },
+     {
+      "t": 9.1,
+      "az": 4.0,
+      "el": 1.4,
+      "dist": 0.66
+     },
+     {
+      "t": 10.3,
+      "az": 3.0,
+      "el": -0.4,
+      "dist": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 5,
+     "q_easy": 3,
+     "q_understand": 4,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 58,
+    "editCount": 8,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.07,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.04,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.12,
+      "el": 0.04,
+      "d_rel": 0.84
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.79
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 4,
+    "label": "Vid2Spatial slightly faster"
+   },
+   "c_edit": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_result": {
+    "value": 3,
+    "label": "About the same"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P07",
+   "order": "VM",
+   "background": "media_student",
+   "experience": "novice",
+   "timestamp": "2026-03-14T10:00:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 98,
+    "editCount": 18,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.28,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.67
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 6,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 176,
+    "editCount": 119,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": -21.0,
+      "el": -6.0,
+      "dist": 0.66
+     },
+     {
+      "t": 2.4,
+      "az": -12.4,
+      "el": 1.9,
+      "dist": 0.57
+     },
+     {
+      "t": 4.8,
+      "az": -6.1,
+      "el": -3.4,
+      "dist": 0.55
+     },
+     {
+      "t": 7.2,
+      "az": 2.8,
+      "el": -0.9,
+      "dist": 0.5
+     },
+     {
+      "t": 9.3,
+      "az": 11.9,
+      "el": -1.1,
+      "dist": 0.56
+     },
+     {
+      "t": 10.8,
+      "az": 18.5,
+      "el": -2.8,
+      "dist": 0.61
+     },
+     {
+      "t": 11.7,
+      "az": 24.7,
+      "el": 0.6,
+      "dist": 0.55
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 2,
+     "q_understand": 4,
+     "q_edit": 2,
+     "q_control": 3,
+     "q_speed": 2,
+     "q_satisfy": 3,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 61,
+    "editCount": 8,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 129,
+    "editCount": 83,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": 6.4,
+      "el": 1.8,
+      "dist": 0.87
+     },
+     {
+      "t": 2.6,
+      "az": 6.3,
+      "el": -0.1,
+      "dist": 0.83
+     },
+     {
+      "t": 4.6,
+      "az": 8.2,
+      "el": 0.7,
+      "dist": 0.77
+     },
+     {
+      "t": 6.2,
+      "az": 4.8,
+      "el": 4.0,
+      "dist": 0.71
+     },
+     {
+      "t": 7.8,
+      "az": 6.0,
+      "el": 2.1,
+      "dist": 0.67
+     },
+     {
+      "t": 9.5,
+      "az": 7.3,
+      "el": -0.6,
+      "dist": 0.61
+     },
+     {
+      "t": 11.3,
+      "az": 0.3,
+      "el": 0.9,
+      "dist": 0.76
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P08",
+   "order": "VM",
+   "background": "ux_student",
+   "experience": "novice",
+   "timestamp": "2026-03-14T10:23:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 104,
+    "editCount": 22,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.29,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.02,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 7,
+     "q_edit": 6,
+     "q_control": 5,
+     "q_speed": 5,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 184,
+    "editCount": 122,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": -20.8,
+      "el": -6.9,
+      "dist": 0.67
+     },
+     {
+      "t": 2.3,
+      "az": -12.9,
+      "el": 2.3,
+      "dist": 0.57
+     },
+     {
+      "t": 4.9,
+      "az": -6.0,
+      "el": -3.8,
+      "dist": 0.56
+     },
+     {
+      "t": 7.1,
+      "az": 2.6,
+      "el": -0.7,
+      "dist": 0.5
+     },
+     {
+      "t": 9.2,
+      "az": 11.4,
+      "el": -1.0,
+      "dist": 0.57
+     },
+     {
+      "t": 10.8,
+      "az": 18.1,
+      "el": -2.9,
+      "dist": 0.62
+     },
+     {
+      "t": 11.8,
+      "az": 25.1,
+      "el": 0.4,
+      "dist": 0.54
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 2,
+     "q_understand": 4,
+     "q_edit": 2,
+     "q_control": 3,
+     "q_speed": 2,
+     "q_satisfy": 3,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 64,
+    "editCount": 9,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 134,
+    "editCount": 86,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": 6.5,
+      "el": 1.9,
+      "dist": 0.88
+     },
+     {
+      "t": 2.7,
+      "az": 6.2,
+      "el": -0.2,
+      "dist": 0.84
+     },
+     {
+      "t": 4.7,
+      "az": 8.4,
+      "el": 0.8,
+      "dist": 0.78
+     },
+     {
+      "t": 6.2,
+      "az": 4.8,
+      "el": 4.1,
+      "dist": 0.72
+     },
+     {
+      "t": 7.8,
+      "az": 5.9,
+      "el": 2.0,
+      "dist": 0.68
+     },
+     {
+      "t": 9.5,
+      "az": 7.2,
+      "el": -0.6,
+      "dist": 0.61
+     },
+     {
+      "t": 11.4,
+      "az": 0.2,
+      "el": 1.0,
+      "dist": 0.75
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P09",
+   "order": "VM",
+   "background": "film_student",
+   "experience": "novice",
+   "timestamp": "2026-03-14T10:46:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 109,
+    "editCount": 24,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.29,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.02,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 5,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 192,
+    "editCount": 125,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": -21.2,
+      "el": -6.7,
+      "dist": 0.66
+     },
+     {
+      "t": 2.4,
+      "az": -13.1,
+      "el": 2.1,
+      "dist": 0.58
+     },
+     {
+      "t": 5.0,
+      "az": -6.3,
+      "el": -3.7,
+      "dist": 0.56
+     },
+     {
+      "t": 7.2,
+      "az": 2.7,
+      "el": -0.8,
+      "dist": 0.5
+     },
+     {
+      "t": 9.4,
+      "az": 11.5,
+      "el": -1.0,
+      "dist": 0.57
+     },
+     {
+      "t": 10.9,
+      "az": 18.3,
+      "el": -2.8,
+      "dist": 0.62
+     },
+     {
+      "t": 11.8,
+      "az": 25.2,
+      "el": 0.5,
+      "dist": 0.54
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 2,
+     "q_understand": 4,
+     "q_edit": 2,
+     "q_control": 3,
+     "q_speed": 2,
+     "q_satisfy": 3,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 62,
+    "editCount": 8,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 131,
+    "editCount": 84,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": 6.4,
+      "el": 1.9,
+      "dist": 0.87
+     },
+     {
+      "t": 2.7,
+      "az": 6.2,
+      "el": -0.2,
+      "dist": 0.84
+     },
+     {
+      "t": 4.7,
+      "az": 8.3,
+      "el": 0.7,
+      "dist": 0.78
+     },
+     {
+      "t": 6.2,
+      "az": 4.7,
+      "el": 4.0,
+      "dist": 0.72
+     },
+     {
+      "t": 7.8,
+      "az": 5.9,
+      "el": 2.0,
+      "dist": 0.68
+     },
+     {
+      "t": 9.5,
+      "az": 7.2,
+      "el": -0.6,
+      "dist": 0.61
+     },
+     {
+      "t": 11.3,
+      "az": 0.2,
+      "el": 0.9,
+      "dist": 0.75
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P10",
+   "order": "VM",
+   "background": "general_user",
+   "experience": "novice",
+   "timestamp": "2026-03-14T11:09:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 118,
+    "editCount": 28,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.29,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.11,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.02,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 7,
+     "q_edit": 6,
+     "q_control": 5,
+     "q_speed": 5,
+     "q_satisfy": 7,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 201,
+    "editCount": 130,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": -21.4,
+      "el": -7.1,
+      "dist": 0.67
+     },
+     {
+      "t": 2.5,
+      "az": -13.0,
+      "el": 2.0,
+      "dist": 0.58
+     },
+     {
+      "t": 5.0,
+      "az": -6.2,
+      "el": -3.9,
+      "dist": 0.56
+     },
+     {
+      "t": 7.4,
+      "az": 2.8,
+      "el": -0.8,
+      "dist": 0.5
+     },
+     {
+      "t": 9.5,
+      "az": 11.7,
+      "el": -1.0,
+      "dist": 0.57
+     },
+     {
+      "t": 10.9,
+      "az": 18.6,
+      "el": -2.9,
+      "dist": 0.62
+     },
+     {
+      "t": 11.8,
+      "az": 25.5,
+      "el": 0.4,
+      "dist": 0.54
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 2,
+     "q_understand": 4,
+     "q_edit": 2,
+     "q_control": 3,
+     "q_speed": 2,
+     "q_satisfy": 3,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 67,
+    "editCount": 10,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 2,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 7,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 136,
+    "editCount": 88,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": 6.6,
+      "el": 1.9,
+      "dist": 0.88
+     },
+     {
+      "t": 2.8,
+      "az": 6.2,
+      "el": -0.2,
+      "dist": 0.84
+     },
+     {
+      "t": 4.8,
+      "az": 8.4,
+      "el": 0.8,
+      "dist": 0.78
+     },
+     {
+      "t": 6.3,
+      "az": 4.8,
+      "el": 4.1,
+      "dist": 0.72
+     },
+     {
+      "t": 7.9,
+      "az": 6.0,
+      "el": 2.0,
+      "dist": 0.68
+     },
+     {
+      "t": 9.5,
+      "az": 7.3,
+      "el": -0.6,
+      "dist": 0.61
+     },
+     {
+      "t": 11.4,
+      "az": 0.2,
+      "el": 1.0,
+      "dist": 0.75
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P11",
+   "order": "VM",
+   "background": "music_student",
+   "experience": "novice",
+   "timestamp": "2026-03-14T11:32:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 114,
+    "editCount": 25,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.29,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.02,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 5,
+     "q_speed": 5,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 189,
+    "editCount": 123,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": -21.1,
+      "el": -6.8,
+      "dist": 0.66
+     },
+     {
+      "t": 2.4,
+      "az": -13.2,
+      "el": 2.2,
+      "dist": 0.58
+     },
+     {
+      "t": 5.0,
+      "az": -6.1,
+      "el": -3.8,
+      "dist": 0.56
+     },
+     {
+      "t": 7.2,
+      "az": 2.7,
+      "el": -0.8,
+      "dist": 0.5
+     },
+     {
+      "t": 9.4,
+      "az": 11.6,
+      "el": -1.0,
+      "dist": 0.57
+     },
+     {
+      "t": 10.9,
+      "az": 18.4,
+      "el": -2.8,
+      "dist": 0.62
+     },
+     {
+      "t": 11.8,
+      "az": 25.2,
+      "el": 0.5,
+      "dist": 0.54
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 7,
+     "q_effort": 6,
+     "q_easy": 2,
+     "q_understand": 4,
+     "q_edit": 2,
+     "q_control": 3,
+     "q_speed": 2,
+     "q_satisfy": 3,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 63,
+    "editCount": 9,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 6,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 133,
+    "editCount": 85,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.8,
+      "az": 6.5,
+      "el": 1.9,
+      "dist": 0.88
+     },
+     {
+      "t": 2.7,
+      "az": 6.2,
+      "el": -0.2,
+      "dist": 0.84
+     },
+     {
+      "t": 4.7,
+      "az": 8.3,
+      "el": 0.7,
+      "dist": 0.78
+     },
+     {
+      "t": 6.2,
+      "az": 4.7,
+      "el": 4.0,
+      "dist": 0.72
+     },
+     {
+      "t": 7.8,
+      "az": 5.9,
+      "el": 2.0,
+      "dist": 0.68
+     },
+     {
+      "t": 9.5,
+      "az": 7.2,
+      "el": -0.6,
+      "dist": 0.61
+     },
+     {
+      "t": 11.4,
+      "az": 0.2,
+      "el": 1.0,
+      "dist": 0.75
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 5,
+     "q_effort": 5,
+     "q_easy": 4,
+     "q_understand": 5,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 3,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 4,
+    "label": "Vid2Spatial slightly easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ },
+ {
+  "meta": {
+   "pid": "P12",
+   "order": "VM",
+   "background": "hci_student",
+   "experience": "novice",
+   "timestamp": "2026-03-14T12:07:00.000Z"
+  },
+  "trials": [
+   {
+    "trialId": "T1_V",
+    "task": "T1",
+    "cond": "Vid2Spatial",
+    "clip": "car-10",
+    "completionTimeSec": 112,
+    "editCount": 26,
+    "playCount": 4,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.29,
+      "el": -0.02,
+      "d_rel": 0.63
+     },
+     {
+      "i": 72,
+      "az": -0.07,
+      "el": -0.01,
+      "d_rel": 0.66
+     },
+     {
+      "i": 144,
+      "az": 0.1,
+      "el": 0.0,
+      "d_rel": 0.66
+     },
+     {
+      "i": 216,
+      "az": 0.29,
+      "el": -0.01,
+      "d_rel": 0.67
+     },
+     {
+      "i": 287,
+      "az": 0.46,
+      "el": -0.01,
+      "d_rel": 0.66
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 3,
+     "q_easy": 6,
+     "q_understand": 7,
+     "q_edit": 6,
+     "q_control": 6,
+     "q_speed": 5,
+     "q_satisfy": 7,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T1_M",
+    "task": "T1",
+    "cond": "Manual",
+    "clip": "car-10",
+    "completionTimeSec": 198,
+    "editCount": 127,
+    "playCount": 5,
+    "trajKeyframeCount": 7,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": -20.6,
+      "el": -7.7,
+      "dist": 0.65
+     },
+     {
+      "t": 2.5,
+      "az": -12.8,
+      "el": 2.5,
+      "dist": 0.57
+     },
+     {
+      "t": 5.1,
+      "az": -5.9,
+      "el": -4.0,
+      "dist": 0.55
+     },
+     {
+      "t": 7.4,
+      "az": 3.0,
+      "el": -0.7,
+      "dist": 0.49
+     },
+     {
+      "t": 9.5,
+      "az": 12.2,
+      "el": -1.0,
+      "dist": 0.57
+     },
+     {
+      "t": 10.9,
+      "az": 18.8,
+      "el": -3.1,
+      "dist": 0.63
+     },
+     {
+      "t": 11.8,
+      "az": 25.4,
+      "el": 0.6,
+      "dist": 0.53
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 6,
+     "q_effort": 4,
+     "q_easy": 3,
+     "q_understand": 4,
+     "q_edit": 3,
+     "q_control": 4,
+     "q_speed": 3,
+     "q_satisfy": 4,
+     "q_match": 4
+    }
+   },
+   {
+    "trialId": "T2_V",
+    "task": "T2",
+    "cond": "Vid2Spatial",
+    "clip": "dog-1",
+    "completionTimeSec": 60,
+    "editCount": 6,
+    "playCount": 3,
+    "trajKeyframeCount": null,
+    "trajSnapshot": [
+     {
+      "i": 0,
+      "az": -0.06,
+      "el": 0.01,
+      "d_rel": 0.78
+     },
+     {
+      "i": 72,
+      "az": 0.05,
+      "el": 0.03,
+      "d_rel": 0.81
+     },
+     {
+      "i": 144,
+      "az": 0.13,
+      "el": 0.04,
+      "d_rel": 0.85
+     },
+     {
+      "i": 216,
+      "az": 0.18,
+      "el": 0.03,
+      "d_rel": 0.82
+     },
+     {
+      "i": 287,
+      "az": 0.22,
+      "el": 0.02,
+      "d_rel": 0.78
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 3,
+     "q_effort": 2,
+     "q_easy": 6,
+     "q_understand": 6,
+     "q_edit": 5,
+     "q_control": 4,
+     "q_speed": 7,
+     "q_satisfy": 5,
+     "q_match": 5
+    }
+   },
+   {
+    "trialId": "T2_M",
+    "task": "T2",
+    "cond": "Manual",
+    "clip": "dog-1",
+    "completionTimeSec": 119,
+    "editCount": 75,
+    "playCount": 5,
+    "trajKeyframeCount": 8,
+    "trajSnapshot": [
+     {
+      "t": 0.9,
+      "az": 6.8,
+      "el": 2.0,
+      "dist": 0.87
+     },
+     {
+      "t": 2.8,
+      "az": 6.6,
+      "el": -0.4,
+      "dist": 0.84
+     },
+     {
+      "t": 4.9,
+      "az": 8.5,
+      "el": 0.8,
+      "dist": 0.79
+     },
+     {
+      "t": 6.2,
+      "az": 4.3,
+      "el": 4.3,
+      "dist": 0.73
+     },
+     {
+      "t": 7.9,
+      "az": 6.0,
+      "el": 2.1,
+      "dist": 0.68
+     },
+     {
+      "t": 9.6,
+      "az": 7.7,
+      "el": -0.7,
+      "dist": 0.61
+     },
+     {
+      "t": 11.2,
+      "az": 0.1,
+      "el": 1.3,
+      "dist": 0.75
+     }
+    ],
+    "questionnaire": {
+     "q_mental": 4,
+     "q_effort": 5,
+     "q_easy": 5,
+     "q_understand": 6,
+     "q_edit": 3,
+     "q_control": 3,
+     "q_speed": 4,
+     "q_satisfy": 6,
+     "q_match": 5
+    }
+   }
+  ],
+  "finalQuestionnaire": {
+   "c_faster": {
+    "value": 5,
+    "label": "Vid2Spatial much faster"
+   },
+   "c_edit": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_result": {
+    "value": 5,
+    "label": "Vid2Spatial much easier"
+   },
+   "c_prefer": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t1_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   },
+   "c_t2_fit": {
+    "value": 1,
+    "label": "Vid2Spatial"
+   }
+  }
+ }
+]

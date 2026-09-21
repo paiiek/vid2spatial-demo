@@ -1,0 +1,117 @@
+{
+  "n_listeners": 20,
+  "questions": {
+    "Q1": {
+      "means": {
+        "proposed": 3.975,
+        "nodepth": 3.789999999999999,
+        "baseline": 3.4499999999999993
+      },
+      "friedman": {
+        "chi2": 7.378378378378397,
+        "p": 0.02499225782219235
+      },
+      "wilcoxon": {
+        "proposed_vs_nodepth": {
+          "p": 0.1975606401597524,
+          "p_bonferroni": 0.5926819204792572,
+          "mean_diff": 0.1850000000000001
+        },
+        "proposed_vs_baseline": {
+          "p": 0.004818092233728487,
+          "p_bonferroni": 0.014454276701185459,
+          "mean_diff": 0.525
+        },
+        "nodepth_vs_baseline": {
+          "p": 0.0522157013133989,
+          "p_bonferroni": 0.1566471039401967,
+          "mean_diff": 0.33999999999999997
+        }
+      }
+    },
+    "Q2": {
+      "means": {
+        "proposed": 3.7600000000000002,
+        "nodepth": 3.5849999999999995,
+        "baseline": 3.3850000000000002
+      },
+      "friedman": {
+        "chi2": 1.3424657534246824,
+        "p": 0.5110780929323918
+      },
+      "wilcoxon": {
+        "proposed_vs_nodepth": {
+          "p": 0.20433410085764248,
+          "p_bonferroni": 0.6130023025729274,
+          "mean_diff": 0.175
+        },
+        "proposed_vs_baseline": {
+          "p": 0.07037553494302096,
+          "p_bonferroni": 0.21112660482906287,
+          "mean_diff": 0.3749999999999999
+        },
+        "nodepth_vs_baseline": {
+          "p": 0.069481575992484,
+          "p_bonferroni": 0.208444727977452,
+          "mean_diff": 0.19999999999999998
+        }
+      }
+    },
+    "Q3": {
+      "means": {
+        "proposed": 3.375,
+        "nodepth": 2.9849999999999994,
+        "baseline": 3.099999999999999
+      },
+      "friedman": {
+        "chi2": 7.5890410958904235,
+        "p": 0.022493687876660815
+      },
+      "wilcoxon": {
+        "proposed_vs_nodepth": {
+          "p": 0.015511862569618848,
+          "p_bonferroni": 0.046535587708856546,
+          "mean_diff": 0.38999999999999996
+        },
+        "proposed_vs_baseline": {
+          "p": 0.08705178018081035,
+          "p_bonferroni": 0.26115534054243106,
+          "mean_diff": 0.275
+        },
+        "nodepth_vs_baseline": {
+          "p": 0.5868569689696317,
+          "p_bonferroni": 1.0,
+          "mean_diff": -0.11499999999999991
+        }
+      }
+    },
+    "Q4": {
+      "means": {
+        "proposed": 3.6,
+        "nodepth": 3.28,
+        "baseline": 3.275
+      },
+      "friedman": {
+        "chi2": 12.422535211267613,
+        "p": 0.0020066921569046234
+      },
+      "wilcoxon": {
+        "proposed_vs_nodepth": {
+          "p": 0.006881504538976926,
+          "p_bonferroni": 0.020644513616930777,
+          "mean_diff": 0.31999999999999995
+        },
+        "proposed_vs_baseline": {
+          "p": 0.008449919717662346,
+          "p_bonferroni": 0.02534975915298704,
+          "mean_diff": 0.32500000000000007
+        },
+        "nodepth_vs_baseline": {
+          "p": 0.3764073123617925,
+          "p_bonferroni": 1.0,
+          "mean_diff": 0.005000000000000071
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "n": 12,
+  "item": "T2 self-rated satisfaction",
+  "equivalence_margin_likert": 0.5,
+  "mean_difference_vs_minus_manual": 0.5,
+  "sd_of_differences": 0.7977240352174656,
+  "ci90": [
+    0.08643808885340515,
+    0.9135619111465949
+  ],
+  "tost": {
+    "p_lower_bound_test": 0.0005849743717241118,
+    "p_upper_bound_test": 0.5,
+    "p_tost": 0.5,
+    "equivalent_at_alpha_05": false
+  },
+  "non_inferiority": {
+    "margin": 0.5,
+    "p": 0.0005849743717241118,
+    "non_inferior_at_alpha_05": true
+  },
+  "raw_differences": [
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    -1
+  ]
+}

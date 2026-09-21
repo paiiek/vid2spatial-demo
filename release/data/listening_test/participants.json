@@ -1,0 +1,1422 @@
+[
+ {
+  "pid": "L01",
+  "field": "spatial_audio",
+  "headphone": "earbuds",
+  "spatial_audio_familiarity": "expert",
+  "listening_test_experience": "none",
+  "clip_order": [
+   "S04_skateboard-8",
+   "S07_dog-14",
+   "S10_guitar-9",
+   "S06_horse-1",
+   "S08_drone-13",
+   "S05_skateboard-11",
+   "S09_train-16",
+   "S01_car-10",
+   "S02_dog-1",
+   "S03_motorcycle-6"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S05_skateboard-11": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S06_horse-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S07_dog-14": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L02",
+  "field": "audio_engineer",
+  "headphone": "earbuds",
+  "spatial_audio_familiarity": "expert",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S07_dog-14",
+   "S10_guitar-9",
+   "S02_dog-1",
+   "S03_motorcycle-6",
+   "S09_train-16",
+   "S08_drone-13",
+   "S01_car-10",
+   "S04_skateboard-8",
+   "S05_skateboard-11",
+   "S06_horse-1"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S05_skateboard-11": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S09_train-16": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L03",
+  "field": "music_production",
+  "headphone": "earbuds",
+  "spatial_audio_familiarity": "heard",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S03_motorcycle-6",
+   "S04_skateboard-8",
+   "S07_dog-14",
+   "S09_train-16",
+   "S10_guitar-9",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S08_drone-13",
+   "S01_car-10",
+   "S06_horse-1"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S03_motorcycle-6": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S07_dog-14": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S08_drone-13": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L04",
+  "field": "musician",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S01_car-10",
+   "S10_guitar-9",
+   "S05_skateboard-11",
+   "S08_drone-13",
+   "S03_motorcycle-6",
+   "S06_horse-1",
+   "S07_dog-14",
+   "S09_train-16",
+   "S02_dog-1",
+   "S04_skateboard-8"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S04_skateboard-8": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L05",
+  "field": "music_production",
+  "headphone": "other",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S06_horse-1",
+   "S01_car-10",
+   "S02_dog-1",
+   "S10_guitar-9",
+   "S03_motorcycle-6",
+   "S07_dog-14",
+   "S04_skateboard-8",
+   "S08_drone-13",
+   "S05_skateboard-11",
+   "S09_train-16"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S08_drone-13": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L06",
+  "field": "music_research",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "heard",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S07_dog-14",
+   "S01_car-10",
+   "S05_skateboard-11",
+   "S04_skateboard-8",
+   "S03_motorcycle-6",
+   "S10_guitar-9",
+   "S02_dog-1",
+   "S06_horse-1",
+   "S08_drone-13",
+   "S09_train-16"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S05_skateboard-11": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S07_dog-14": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S09_train-16": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L07",
+  "field": "other",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "none",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S09_train-16",
+   "S07_dog-14",
+   "S03_motorcycle-6",
+   "S08_drone-13",
+   "S04_skateboard-8",
+   "S01_car-10",
+   "S10_guitar-9",
+   "S02_dog-1"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L08",
+  "field": "cs_ai",
+  "headphone": "in-ear",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S03_motorcycle-6",
+   "S08_drone-13",
+   "S10_guitar-9",
+   "S06_horse-1",
+   "S07_dog-14",
+   "S01_car-10",
+   "S02_dog-1",
+   "S09_train-16",
+   "S05_skateboard-11",
+   "S04_skateboard-8"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S10_guitar-9": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L09",
+  "field": "audio_engineer",
+  "headphone": "in-ear",
+  "spatial_audio_familiarity": "expert",
+  "listening_test_experience": "4-10",
+  "clip_order": [
+   "S01_car-10",
+   "S06_horse-1",
+   "S08_drone-13",
+   "S09_train-16",
+   "S05_skateboard-11",
+   "S04_skateboard-8",
+   "S02_dog-1",
+   "S07_dog-14",
+   "S10_guitar-9",
+   "S03_motorcycle-6"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ]
+  }
+ },
+ {
+  "pid": "L10",
+  "field": "music_production",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "heard",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S07_dog-14",
+   "S10_guitar-9",
+   "S02_dog-1",
+   "S09_train-16",
+   "S04_skateboard-8",
+   "S03_motorcycle-6",
+   "S08_drone-13",
+   "S05_skateboard-11",
+   "S06_horse-1",
+   "S01_car-10"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S10_guitar-9": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L11",
+  "field": "audio_engineer",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "none",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L12",
+  "field": "music_production",
+  "headphone": "earbuds",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "1-3",
+  "clip_order": [
+   "S03_motorcycle-6",
+   "S09_train-16",
+   "S02_dog-1",
+   "S01_car-10",
+   "S07_dog-14",
+   "S06_horse-1",
+   "S08_drone-13",
+   "S04_skateboard-8",
+   "S10_guitar-9",
+   "S05_skateboard-11"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S07_dog-14": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S08_drone-13": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S10_guitar-9": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ]
+  }
+ },
+ {
+  "pid": "L13",
+  "field": "musician",
+  "headphone": "earbuds",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "4-10",
+  "clip_order": [
+   "S03_motorcycle-6",
+   "S04_skateboard-8",
+   "S02_dog-1",
+   "S07_dog-14",
+   "S06_horse-1",
+   "S10_guitar-9",
+   "S05_skateboard-11",
+   "S01_car-10",
+   "S08_drone-13",
+   "S09_train-16"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S02_dog-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S07_dog-14": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S09_train-16": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ]
+  }
+ },
+ {
+  "pid": "L14",
+  "field": "music_production",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "4-10",
+  "clip_order": [
+   "S04_skateboard-8",
+   "S05_skateboard-11",
+   "S01_car-10",
+   "S06_horse-1",
+   "S03_motorcycle-6",
+   "S02_dog-1",
+   "S08_drone-13",
+   "S07_dog-14",
+   "S10_guitar-9",
+   "S09_train-16"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S02_dog-1": [
+    "nodepth",
+    "baseline",
+    "proposed"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S04_skateboard-8": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S05_skateboard-11": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S06_horse-1": [
+    "baseline",
+    "proposed",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L15",
+  "field": "composer",
+  "headphone": "over-ear-open",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "some",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L16",
+  "field": "sound_designer",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "some",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L17",
+  "field": "audio_engineer",
+  "headphone": "over-ear-closed",
+  "spatial_audio_familiarity": "familiar",
+  "listening_test_experience": "some",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L18",
+  "field": "media_artist",
+  "headphone": "in-ear",
+  "spatial_audio_familiarity": "basic",
+  "listening_test_experience": "none",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L19",
+  "field": "researcher",
+  "headphone": "over-ear-open",
+  "spatial_audio_familiarity": "expert",
+  "listening_test_experience": "extensive",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ },
+ {
+  "pid": "L20",
+  "field": "mix_engineer",
+  "headphone": "over-ear-open",
+  "spatial_audio_familiarity": "expert",
+  "listening_test_experience": "extensive",
+  "clip_order": [
+   "S10_guitar-9",
+   "S07_dog-14",
+   "S09_train-16",
+   "S03_motorcycle-6",
+   "S01_car-10",
+   "S06_horse-1",
+   "S05_skateboard-11",
+   "S02_dog-1",
+   "S04_skateboard-8",
+   "S08_drone-13"
+  ],
+  "condition_order": {
+   "S01_car-10": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ],
+   "S02_dog-1": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S03_motorcycle-6": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S04_skateboard-8": [
+    "proposed",
+    "nodepth",
+    "baseline"
+   ],
+   "S05_skateboard-11": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S06_horse-1": [
+    "proposed",
+    "baseline",
+    "nodepth"
+   ],
+   "S07_dog-14": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S08_drone-13": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S09_train-16": [
+    "nodepth",
+    "proposed",
+    "baseline"
+   ],
+   "S10_guitar-9": [
+    "baseline",
+    "nodepth",
+    "proposed"
+   ]
+  }
+ }
+]

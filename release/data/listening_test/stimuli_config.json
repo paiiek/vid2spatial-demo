@@ -1,0 +1,126 @@
+{
+ "version": "v3_ismar2026",
+ "date": "2026-03-04",
+ "n_clips": 10,
+ "n_conditions": 4,
+ "n_questions": 4,
+ "target_rms_dbfs": -22.0,
+ "duration_sec": 12.0,
+ "scale": "5-point MOS (1=Bad, 5=Excellent)",
+ "clips": [
+  {
+   "id": "S01_car-10",
+   "name": "car-10",
+   "cat": "vehicle"
+  },
+  {
+   "id": "S02_dog-1",
+   "name": "dog-1",
+   "cat": "animal"
+  },
+  {
+   "id": "S03_motorcycle-6",
+   "name": "motorcycle-6",
+   "cat": "vehicle"
+  },
+  {
+   "id": "S04_skateboard-8",
+   "name": "skateboard-8",
+   "cat": "sports"
+  },
+  {
+   "id": "S05_skateboard-11",
+   "name": "skateboard-11",
+   "cat": "sports"
+  },
+  {
+   "id": "S06_horse-1",
+   "name": "horse-1",
+   "cat": "animal"
+  },
+  {
+   "id": "S07_dog-14",
+   "name": "dog-14",
+   "cat": "animal"
+  },
+  {
+   "id": "S08_drone-13",
+   "name": "drone-13",
+   "cat": "drone"
+  },
+  {
+   "id": "S09_train-16",
+   "name": "train-16",
+   "cat": "vehicle"
+  },
+  {
+   "id": "S10_guitar-9",
+   "name": "guitar-9",
+   "cat": "instrument"
+  }
+ ],
+ "conditions": [
+  {
+   "id": "proposed",
+   "file": "proposed.wav",
+   "blind_label": null,
+   "description": "Proposed: KEMAR HRTF binaural + bbox_area gain/LPF"
+  },
+  {
+   "id": "baseline",
+   "file": "baseline.wav",
+   "blind_label": null,
+   "description": "Baseline: Stereo pan (sin law) + bbox_area gain/LPF"
+  },
+  {
+   "id": "nodepth",
+   "file": "nodepth.wav",
+   "blind_label": null,
+   "description": "Proposed w/o Depth: KEMAR HRTF binaural, flat gain"
+  },
+  {
+   "id": "mono",
+   "file": "mono.wav",
+   "blind_label": "Mono Reference",
+   "description": "Mono anchor (dual-mono, no spatialization)"
+  }
+ ],
+ "questions": [
+  {
+   "id": "Q1",
+   "dimension": "Spatial Alignment",
+   "text": "How well does the sound position match the on-screen object?",
+   "anchors": {
+    "1": "No match",
+    "5": "Perfect match"
+   }
+  },
+  {
+   "id": "Q2",
+   "dimension": "Motion Smoothness",
+   "text": "How smooth and artifact-free is the spatial audio movement?",
+   "anchors": {
+    "1": "Severe artifacts",
+    "5": "Completely smooth"
+   }
+  },
+  {
+   "id": "Q3",
+   "dimension": "Depth Perception",
+   "text": "How convincing is the sense of distance (near/far)?",
+   "anchors": {
+    "1": "No depth",
+    "5": "Very convincing"
+   }
+  },
+  {
+   "id": "Q4",
+   "dimension": "Overall Quality",
+   "text": "Overall, how would you rate the spatial audio quality?",
+   "anchors": {
+    "1": "Bad",
+    "5": "Excellent"
+   }
+  }
+ ]
+}

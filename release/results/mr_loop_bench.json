@@ -1,0 +1,31 @@
+{
+  "config": {
+    "pose_rate_hz": 90.0,
+    "duration_s": 60.0,
+    "authored_fps": 30.0,
+    "source": "test/ood_eval/tank-8/traj.json",
+    "poses_emitted": 5400
+  },
+  "latency_ms": {
+    "mean": 1.3612593583174102,
+    "median": 1.3496500032488257,
+    "p95": 8.430492010666057,
+    "p99": 9.091618803504389,
+    "max": 9.603568003512919,
+    "sd": 4.521893248847789
+  },
+  "integrity": {
+    "received": 5400,
+    "dropped": 0,
+    "drop_rate": 0.0,
+    "out_of_order": 0
+  },
+  "anchoring_error_deg": {
+    "mean": 1.0696319308402104e-06,
+    "max": 5.720375895634788e-06
+  },
+  "excluded_from_measurement": [
+    "headset display / wireless transport (no HMD hardware in loop)",
+    "HRTF convolution block latency (reported separately)"
+  ]
+}
